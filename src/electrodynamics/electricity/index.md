@@ -4,8 +4,8 @@
 
 ## Introduction
 
-- physial phenomena of electrical charges
-- often used as synonym for current, e.g. "create electricity"
+- set of physial phenomena of electrical charges
+- often used as synonym for the phenomena it consists of, e.g. "create electricity", "electricity flows", "using electricity", etc.
 
 
 
@@ -53,7 +53,9 @@
 ## Circuit
 
 - a closed path around which a current can flow
-- needs a voltage, otherwise no current is flowing
+- current is inherent property of circuit, not of external charges
+- voltage is not inherent property of circuit, created outside by external charges (in some black box energy source, e.g. battery)
+- can not have current if circuit is not closed, can have voltage if circuit is not closed
 
 
 
@@ -62,9 +64,7 @@
 - charge: water element
 - current: water flow rate, e.g. 1l of water flows by in this tube per second
 - voltage: water pressure, pushes water in one direction, makes water do work, e.g. spin a turbine
-- charge is what flows, voltage is what makes it flow, current is how fast it flows
-- current is inherent property of circuit, not of external charges, can not have current if circuit is not closed
-- voltage is not inherent property of circuit, created using external energy source, can have voltage if circuit is not closed
+- charge is what flows, voltage is what makes it flow, current is how much of it flows
 
 
 
