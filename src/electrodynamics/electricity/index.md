@@ -99,3 +99,9 @@
 
 - emission of light from a material due to recombination of electrons & holes
 - LED: current through semiconductors creates recombination of electrons & holes, much more efficient than light bulbs, less heat, longer lifetime
+
+
+
+## Resources
+
+- Wikipedia
