@@ -53,15 +53,14 @@
 
 ## Directionality of Time
 
+- not fundamental, not from laws of physics themselves
+- emergent property, only in macroscopic world
+- due to evolution of entropy
+- and initial condition that universe started in low entropy at Big Bang
+- unclear why started in low entropy, maybe due to infinite time has fluctuation to lower entropy from higher entropy, any configuration eventually happens
+- due to timely vicinity to Big Bang event, just like directionality of space due to spatial vicinity to massive object due to gravity
 - current universe not at highest entropy yet
-- universe started in low entropy at Big Bang, initial condition
-- unclear why, maybe due to infinite time has fluctuation to lower entropy from higher entropy, any configuration eventually happens
-- evolution of entropy gives rise to directionality of time in macroscopic world
-- directionality of time emergent property
-- due to timely vicinity to Big Bang event
-- just like directionality of space due to spatial vicinity to massive object due to gravity
-- no directionality of time anymore when reaches highest entropy state
-- directionality of time not universal, not from laws of physics themselves
+- at highest entropy state no directionality of time anymore
 
 
 
