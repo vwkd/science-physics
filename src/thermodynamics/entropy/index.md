@@ -35,18 +35,23 @@
 - number of ways we can rearrange constituents of system so that we don't notice
 - number of indistinguishable arrangements of system
 - number of different microstates corresponding to same macrostate￼
-- disorderliness of macroscopic world
+- how spread out is energy, how not clumped up
+- beware:  not necessarily disorder, e.g. complexity of life on earth is due to increasing entropy ❗️
 
 
 
 ## Evolution
 
 - microstates fluctuates randomly over time
+- all microstates equally likely
 - more ways to be high entropy than low entropy
 - higher probability to evolve into high entropy state than low entropy
 - entropy increases over time in a closed system
 - beware: can decrease entropy locally by decreasing it elsewhere ❗️
 - second law of thermodynamics
+- all macrostates aren't equally likely
+
+
 - unclear why universe started in low entropy
 - maybe because infinite time fluctuates from highest possible entropy to any lower entropy, any configuration happens
 
@@ -69,3 +74,4 @@
 ## Sources
 
 - [Sean Carroll - The Passage of Time and the Meaning of Life](https://youtube.com/watch?v=-nTQi_LgIQ4)
+- [Henry Reich with Sean Carroll - The Big Picture](https://youtube.com/playlist?list=PLoaVOjvkzQtyZF-2VpJrxPz7bxK_p1Dd2)
