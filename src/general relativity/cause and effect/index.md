@@ -1,4 +1,10 @@
-# Cause
+# Cause & Effect
+
+
+
+emergent property of directionality of time
+Therefore only in macroscopic world
+Not fundamental, in microscopic world just sequence, pattern
 
 
 
@@ -29,3 +35,4 @@ but on high level can best describe world using those concepts
 
 - [Sean Carroll - The Big Picture: From the Big Bang to the Meaning of Life](https://youtube.com/watch?v=2JsKwyRFiYY)
 - [Sean Carroll - The Big Picture](https://youtube.com/watch?v=x26a-ztpQs8)
+- [Henry Reich and Sean Carroll - Do Cause and Effect Really Exist?](https://youtube.com/watch?v=3AMCcYnAsdQ&list=PLoaVOjvkzQtyZF-2VpJrxPz7bxK_p1Dd2&index=2)
