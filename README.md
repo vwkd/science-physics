@@ -1,7 +1,5 @@
-# Notes For Physics
+# README
 
+My collection of notes about (meta) physics.
 
-
-## Introduction
-
-These notes are about fundamental physics principles.
+The focus is on the fundamental concepts and philosophical implications instead of the formal mathematical equations.
