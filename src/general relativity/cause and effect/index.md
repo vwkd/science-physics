@@ -1,33 +1,44 @@
-# Cause & Effect
+# Cause and Effect
 
 
 
-emergent property of directionality of time
-Therefore only in macroscopic world
-Not fundamental, in microscopic world just sequence, pattern
+## Microscopic world
+
+- not fundamental, in microscopic world just sequence, pattern
 
 
 
-## Introduction
 
-in quantum mechanics (and previously classical mechanics) given current state, can compute future, but can also compute past
-    determinism, no free will
-future is not different from past
-just that humans haven't experienced future but did experience past
+- in quantum mechanics (and previously classical mechanics) given current state, can compute future, but can also compute past
 
-at every point in time can compute all further and previous points in time
-like a sequence of integers, 3 is not caused by 2 and is not the cause for 4, it's just a pattern
+- determinism, no free will
+- future is not different from past
 
-laws of physics are the pattern
-there is no cause and effect
+- at every point in time can compute all further and previous points in time
+- like a sequence of integers, 3 is not caused by 2 and is not the cause for 4, it's just a pattern
 
-at the macroscopic level can interpret as cause and effect
-a small change after whose sequence follows a big change
-due to arrow of time
+- laws of physics are the pattern
+- there is no cause and effect
 
-cause is an emergent property, high level
-on scale of atoms no such thing a choice, free will, cause and effect
-but on high level can best describe world using those concepts
+- on scale of atoms no such thing a choice, free will, cause and effect
+
+
+
+## Macroscopic world
+
+- emergent property of directionality of time, only in macroscopic world
+
+
+
+- cause is an emergent property, high level
+
+- just that humans haven't experienced future but did experience past
+
+- at the macroscopic level can interpret as cause and effect
+- a small change after whose sequence follows a big change
+- due to directionality of time
+
+- on high level can best describe world using those concepts
 
 
 
