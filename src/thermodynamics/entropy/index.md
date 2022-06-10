@@ -17,7 +17,7 @@
 - irreversible evolution
 - macroscopic laws of physics have directionality of time built-in
 - has directionality of time
-- asymmetry of time, past is different from future, e.g. can remember past (not future), etc.
+- asymmetry of time, past is different from future, e.g. did experience past but not future, etc.
 - information is not conserved
 - ? can't compute the past state, e.g. broken egg
 - where does directionality of time come from?
