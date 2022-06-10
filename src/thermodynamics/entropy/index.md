@@ -26,19 +26,22 @@
 
 ## Entropy
 
-- number of different microstates corresponding to a macrostate￼
+- number of different possible microstates corresponding to same macrostate￼
 - number of indistinguishable arrangements of system
 - number of ways can rearrange constituents of system so that humans don't notice
-- beware: disorder is confusing, see complexity ❗️
+- measure for randomness of system
+- beware: the term disorder is confusing, see complexity ❗️
 
 
 
 ## Evolution
 
+
 - microstates fluctuates randomly over time
 - all microstates are equally likely, but macrostates aren't equally likely
-- more ways to have macrostate with high entropy than low entropy
-- higher probability to evolve into high entropy macrostate than low entropy
+- more ways to have macrostate with high number of microstates than with low number of microstates
+- system evolves towards the macrostate with the greatest number of microstates
+- higher probability for system to evolve into high entropy than low entropy
 - entropy increases over time in a closed system, second law of thermodynamics
 - beware: can decrease entropy locally by increasing it more elsewhere, e.g. cold fridge ❗️
 - eventually heat death of universe
