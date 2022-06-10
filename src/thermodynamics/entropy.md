@@ -27,15 +27,16 @@
 ## Entropy
 
 - number of different possible microstates corresponding to same macrostate￼
-- number of indistinguishable arrangements of system
-- number of ways can rearrange constituents of system so that humans don't notice
+- every microstate is different, but we can only see macrostate, can't see the difference with our coarse eyes
+- number of indistinguishable arrangements of system to us
+- number of ways can rearrange constituents of system so that we don't notice
+- emergent property, has only meaning at our scale
 - measure for randomness of system
 - beware: the term disorder is confusing, see complexity ❗️
 
 
 
 ## Evolution
-
 
 - microstates fluctuates randomly over time
 - all microstates are equally likely, but macrostates aren't equally likely
@@ -71,7 +72,6 @@
 - existence of life only because of rising entropy, not a struggle against entropy
 - life is solution to satisfy law of increasing entropy
 - highest complexity when stars stop shining
-
 
 
 
