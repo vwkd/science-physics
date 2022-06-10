@@ -2,10 +2,21 @@
 
 
 
+- dimension of space time (without further defining dimension)
+- special for humans
+- can't access it like a spatial dimension
+- can move in space, can't move in time
+- instead is moved in time, in one direction with constant speed, involuntarily if wants to or not
+- own speed always constant from own point of view, speed of others through time can appear different, see Special Relativity
+
+
+
 ## 1
 
 clock: object that repeats itself in a predictable way
 living beings can experience time because they have clocks in them, e.g. heart beat, breath, etc.
+
+?? what is repetition? needs already concept of time...
 
 mystery is why time only moves forward, unlike how we experience directions in space
 
