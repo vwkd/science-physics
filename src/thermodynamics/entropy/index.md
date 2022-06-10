@@ -27,7 +27,8 @@
 ## Entropy
 
 - number of different possible microstates corresponding to same macrostate￼
-- every microstate is different, but we can only see macrostate, can't see the difference with our coarse eyes
+- every microstate is different, but we can't see the difference, can only see macrostate
+- specifically harder to differentiate homogenous structures than heterogeneous, think about our coarse eye sight
 - number of indistinguishable arrangements of system to us
 - number of ways can rearrange constituents of system so that we don't notice
 - emergent property, has only meaning at our scale
@@ -43,6 +44,7 @@
 - more ways to have macrostate with high number of microstates than with low number of microstates
 - system evolves towards the macrostate with the greatest number of microstates
 - higher probability for system to evolve into high entropy than low entropy
+- simple statistics
 - entropy increases over time in a closed system, second law of thermodynamics
 - beware: can decrease entropy locally by increasing it more elsewhere, e.g. cold fridge ❗️
 - eventually heat death of universe
