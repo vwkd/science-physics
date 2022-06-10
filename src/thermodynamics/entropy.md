@@ -6,7 +6,8 @@
 
 - reversible evolution
 - no directionality of time
-- microscopic laws of physics don't have directionality of time built-in
+- fundamental laws of physics don't have directionality of time
+- directionality of time not inherent to nature of reality
 - information is conserved
 - ? can compute the past state
 
@@ -15,7 +16,6 @@
 ## Macrostate / Macroscopic world
 
 - irreversible evolution
-- macroscopic laws of physics have directionality of time built-in
 - has directionality of time
 - asymmetry of time, past is different from future, e.g. did experience past but not future, etc.
 - information is not conserved
@@ -26,10 +26,9 @@
 
 ## Entropy
 
-- number of microstates for same macrostate
-- number of different microstates corresponding to same macrostate￼
-- number of ways we can rearrange constituents of system so that we don't notice
+- number of different microstates corresponding to a macrostate￼
 - number of indistinguishable arrangements of system
+- number of ways can rearrange constituents of system so that humans don't notice
 - beware: disorder is confusing, see complexity ❗️
 
 
@@ -37,32 +36,39 @@
 ## Evolution
 
 - microstates fluctuates randomly over time
-- all microstates equally likely
-- more ways to be high entropy than low entropy
+- all microstates are equally likely, but macrostates aren't equally likely
+- more ways to have macrostate with high entropy than low entropy
 - higher probability to evolve into high entropy macrostate than low entropy
-- all macrostates aren't equally likely
 - entropy increases over time in a closed system, second law of thermodynamics
 - beware: can decrease entropy locally by increasing it more elsewhere, e.g. cold fridge ❗️
+- eventually heat death of universe
 
 
 
 ## Directionality of Time
 
+- current universe not at highest entropy yet
 - universe started in low entropy at Big Bang, initial condition
-- unclear why, maybe because fluctuation to lower entropy from higher entropy due to infinite time, any configuration eventually happens
+- unclear why, maybe due to infinite time has fluctuation to lower entropy from higher entropy, any configuration eventually happens
 - evolution of entropy gives rise to directionality of time in macroscopic world
-- directionality of time emergent property of influential Big Bang event in timely vicinity, no directionality of time anymore when reaches highest entropy state
+- directionality of time emergent property
+- due to timely vicinity to Big Bang event
+- just like directionality of space due to spatial vicinity to massive object due to gravity
+- no directionality of time anymore when reaches highest entropy state
+- directionality of time not universal, not from laws of physics themselves
 
 
 
 ## Complexity
 
-- e.g. life on earth
-- how can arise?
+- how can arise, e.g. life on earth?
 - due to increasing entropy, transition from simple low entropy to simple high entropy state, e.g. mixing coffee and cream, before simple, after simple, in between complex swirling
 - transition is many locally low entropy and high entropy states, creates differences, variability, multitude
-- temporary phenomenon of evolution, peaks in middle between low and high entropy
-- existence of life because of rising entropy
+- temporary phenomenon of evolution of entropy, peaks in middle between low and high entropy
+- existence of life only because of rising entropy, not a struggle against entropy
+- life is solution to satisfy law of increasing entropy
+- highest complexity when stars stop shining
+
 
 
 
@@ -70,7 +76,7 @@
 
 - energy is not used, always stays constant
 - energy is just converted from a useful low entropy form to a useless high entropy form
-- e.g. sun radiates energy in low entropy form, earth converts it to high entropy form, radiates it away again
+- e.g. sun rays is energy in low entropy form, earth radiates heat of same energy in high entropy form, food is low entropy, etc.
 - the use comes from the difference in entropy, not energy itself
 - energy is like a medium, always present, e.g. water
 - entropy is what does the useful "work", e.g. water wave
