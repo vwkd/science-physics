@@ -2,41 +2,35 @@
 
 
 
-## Microstate
+## Microstate / Microscopic world
 
-- evolution is reversible
+- reversible evolution
 - no directionality of time
-- reversible
-- can compute the past state
-- information is conserved
 - microscopic laws of physics don't have directionality of time built-in
-- no directionality of time in microscopic world
+- information is conserved
+- ? can compute the past state
 
 
 
-## Macrostate
+## Macrostate / Macroscopic world
 
-- evolution is not reversible
-- directionality of time
-- irreversible
-- can't compute the past state
-- information is not conserved
+- irreversible evolution
 - macroscopic laws of physics have directionality of time built-in
-- directionality of time in macroscopic world
+- has directionality of time
 - asymmetry of time, past is different from future, e.g. can remember past (not future), etc.
-- also called arrow of time
-- where does come from?
+- information is not conserved
+- ? can't compute the past state, e.g. broken egg
+- where does directionality of time come from?
 
 
 
 ## Entropy
 
 - number of microstates for same macrostate
+- number of different microstates corresponding to same macrostate￼
 - number of ways we can rearrange constituents of system so that we don't notice
 - number of indistinguishable arrangements of system
-- number of different microstates corresponding to same macrostate￼
-- how spread out is energy, how not clumped up
-- beware:  not necessarily disorder, e.g. complexity of life on earth is due to increasing entropy ❗️
+- beware: disorder is confusing, see complexity ❗️
 
 
 
@@ -45,29 +39,41 @@
 - microstates fluctuates randomly over time
 - all microstates equally likely
 - more ways to be high entropy than low entropy
-- higher probability to evolve into high entropy state than low entropy
-- entropy increases over time in a closed system
-- beware: can decrease entropy locally by decreasing it elsewhere ❗️
-- second law of thermodynamics
+- higher probability to evolve into high entropy macrostate than low entropy
 - all macrostates aren't equally likely
+- entropy increases over time in a closed system, second law of thermodynamics
+- beware: can decrease entropy locally by increasing it more elsewhere, e.g. cold fridge ❗️
 
 
-- unclear why universe started in low entropy
-- maybe because infinite time fluctuates from highest possible entropy to any lower entropy, any configuration happens
 
-- gives rise to directionality of time
-- because initial condition of Big Bang that started with low entropy
-- directionality of time not built into universe, emergent property of influential event big bang in vicinity
-- question: why was Big Bang very low entropy?
+## Directionality of Time
+
+- universe started in low entropy at Big Bang, initial condition
+- unclear why, maybe because fluctuation to lower entropy from higher entropy due to infinite time, any configuration eventually happens
+- evolution of entropy gives rise to directionality of time in macroscopic world
+- directionality of time emergent property of influential Big Bang event in timely vicinity, no directionality of time anymore when reaches highest entropy state
 
 
-- locally low entropy, complexity, e.g. earth
-- how can complexity arise?
-- complexity naturally arises on transition from simple low to simple high entropy, e.g. mixing coffee and cream
-- complexity is temporary phenomenon of evolution, peaks in middle between low and high entropy
+
+## Complexity
+
+- e.g. life on earth
+- how can arise?
+- due to increasing entropy, transition from simple low entropy to simple high entropy state, e.g. mixing coffee and cream, before simple, after simple, in between complex swirling
+- transition is many locally low entropy and high entropy states, creates differences, variability, multitude
+- temporary phenomenon of evolution, peaks in middle between low and high entropy
 - existence of life because of rising entropy
-- sun gives energy in low entropy form, earth converts it to energy in high entropy form
 
+
+
+## Energy
+
+- energy is not used, always stays constant
+- energy is just converted from a useful low entropy form to a useless high entropy form
+- e.g. sun radiates energy in low entropy form, earth converts it to high entropy form, radiates it away again
+- the use comes from the difference in entropy, not energy itself
+- energy is like a medium, always present, e.g. water
+- entropy is what does the useful "work", e.g. water wave
 
 
 
