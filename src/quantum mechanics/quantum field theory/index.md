@@ -2,6 +2,23 @@
 
 
 
+
+ ## Force
+ 
+ - no forces
+ - no action at a distance
+ - gravity is bend spacetime
+ - due to field, waves
+ - particles are waves
+ - fields can interact with each other
+ - macroscopic see the result of different fields interacting, e.g. something with charge and mass
+
+
+- ?? interaction between fields is called virtual particle
+- particle isn't "particle", is in fact wave, travels with speed of light
+
+
+
 ## Introduction
 
 field: fluid like substance that can ripple
