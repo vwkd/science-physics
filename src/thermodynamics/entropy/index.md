@@ -91,3 +91,4 @@
 
 - [Sean Carroll - The Passage of Time and the Meaning of Life](https://youtube.com/watch?v=-nTQi_LgIQ4)
 - [Henry Reich with Sean Carroll - The Big Picture](https://youtube.com/playlist?list=PLoaVOjvkzQtyZF-2VpJrxPz7bxK_p1Dd2)
+- [Veritasium - The Most Misunderstood Concept in Physics](https://youtube.com/watch?v=DxL2HoqLbyA)
