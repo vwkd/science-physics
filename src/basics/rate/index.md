@@ -8,6 +8,7 @@
 - can think of as change in nominator quantity over denominator quantity
 - can be dimensionful or dimensionless
 - can be temporal or non-temporal
+- often means temporal
 - also called rate of change, derivative, etc.
 - note: almost everything is a rate!
 - beware: calls plot of all ratios over all values of denominator quantity still same name!
@@ -30,6 +31,7 @@
 
 - rate where non-time in denominator quantity
 - ratio of quantity over non-time quantity
+- also called portion, fraction, multiple, quota, ratio, etc.
 - e.g. exchange rate, electric field, etc.
 
 
@@ -37,7 +39,7 @@
 ## Temporal
 
 - rate where time in denominator quantity
-- often called speed, frequency, etc.
+- also called speed, frequency, etc.
 - e.g. speed, acceleration, power, heart rate, flux, bit rate, radioactive decay, etc.
 
 
